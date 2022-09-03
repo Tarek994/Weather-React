@@ -4,15 +4,15 @@ import axios from "axios";
 
 function App() {
     const [data,setData] = useState({});
-    const [location,setLocation] = useState('');
+    const [location,setLocation] = useState('')
 
     const url = 'http://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=6b42ac7df85a4e3c6a182a15d6784e03';
 
     const searchLocation = (event) => {
       if( event.key === 'Enter'){
-        axios.get(url).then( (response) => {
+        axios.get(url).then((response) => {
           setData(response.data)
-          console.log(response.data);
+          console.log(response.data)
         })
       }
       
