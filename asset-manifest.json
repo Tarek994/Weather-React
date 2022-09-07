@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tarek994/Weather-React/static/css/main.e835ff2f.css",
+    "main.js": "/Tarek994/Weather-React/static/js/main.dcba9176.js",
+    "static/js/787.7b63f85e.chunk.js": "/Tarek994/Weather-React/static/js/787.7b63f85e.chunk.js",
+    "static/media/sunset.jpeg": "/Tarek994/Weather-React/static/media/sunset.86fad7fa665b9e24f514.jpeg",
+    "index.html": "/Tarek994/Weather-React/index.html",
+    "main.e835ff2f.css.map": "/Tarek994/Weather-React/static/css/main.e835ff2f.css.map",
+    "main.dcba9176.js.map": "/Tarek994/Weather-React/static/js/main.dcba9176.js.map",
+    "787.7b63f85e.chunk.js.map": "/Tarek994/Weather-React/static/js/787.7b63f85e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e835ff2f.css",
+    "static/js/main.dcba9176.js"
+  ]
+}
