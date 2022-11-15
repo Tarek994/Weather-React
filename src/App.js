@@ -15,9 +15,7 @@ function App() {
         })
         setLocation('')
       }
-      
     }
-
 
   return (
     <div className="app">
@@ -56,12 +54,7 @@ function App() {
               {data.wind ? <p className="bold">{data.wind.speed.toFixed()} MPH</p> : null}
               <p>Wind Speed</p>
             </div>
-          </div>
-
-            }
-              
-
-
+          </div>}
         </div>
       
     </div>
