@@ -1,5 +1,4 @@
 import Hero from "./sections/Hero";
-import Services from "./sections/Services";
 
 function App() {
 
@@ -7,7 +6,6 @@ function App() {
       <div className="">
 
       <Hero/>
-      <Services/>
       </div>
     )
 
