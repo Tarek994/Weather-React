@@ -1,11 +1,11 @@
-import Body from "./sections/Body";
+import Hero from "./sections/Hero";
 
 function App() {
 
     return (
       <>
 
-      <Body/>
+      <Hero/>
 
       </>
     )
